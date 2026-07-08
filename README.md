@@ -1,17 +1,24 @@
 
 
-## Hello! 
+## Hi, I'm Taiwo Olasehinde 
 
-My name is Taiwo Olasehinde, I am a Data Analyst who is proficient in Microsoft Excel, SQL, Power BI, Tableau and Python. I am Passionate about unraveling insights and making predictions to drive informed business decisions.
+I'm a Machine Learning and Data Science enthusiast passionate about building intelligent, data-driven solutions that solve real-world problems.
+My work focuses on Python, Machine Learning, Data Analysis, SQL, and AI applications. I enjoy transforming raw data into actionable insights and developing end-to-end projects; from data collection and preprocessing to model development and deployment.
 
-#### About Me
-Currently, I am working on honing my skills in SQL, Excel, PowerBi, Tableau and Python.
+#### Technical Skills
+- **Languages:** Python, SQL
+- **Machine Learning:** Scikit-learn, Pandas, NumPy
+- **Data Visualization:** Power BI, Tableau, Matplotlib
+- **Tools** Git, GitHub, Jupyter Notebook, VS Code, Streamlit
 
-I am eager to learn and expand my knowledge in the field of data analytics, particularly in areas such as predictive analytics, data visualization and machine learning.
+#### Featured Projects 
+- Online Payment Fraud Detection using Machine Learning
+- Central Bank Exchange Rate Analytics Dashboard
+- Web Scraping and Data Analysis Projects
+- Interactive Machine Learning Applications with Streamlit
 
-#### Connect with Me 
-- **LinkedIn:** http://linkedin.com/in/taiwo-olasehinde-87b823164
-- **Twitter:** https://twitter.com/Teelash_K 
-- **Instagram:** http://instagram.com/_datafan.csv
+I'm always looking for opportunities to contribute to impactful AI products, collaborate with other developers, and continue growing as a Machine Learning Engineer.
 
-Feel free to reach out and connect with me on LinkedIn, Twitter, or Instagram! I am always open to networking and discussing opportunities within the data analytics field.
+**Email:** taiwolash@gmail.com
+
+Feel free to connect or explore my repositories to see what I'm building.
